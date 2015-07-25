@@ -1,0 +1,11 @@
+sql:
+    host: '127.0.0.1'
+    port: '3360'
+    database: 'test'
+    user: 'root'
+    pass: 'password'
+    
+day:
+npc:
+prices:
+    changeName: 500

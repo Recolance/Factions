@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Recolance/Documents/Dependencies/WorldGuard.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Recolance/Documents/Dependencies/WorldEdit.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Recolance/Documents/Dependencies/BetterUtilities.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Recolance/Documents/Dependencies/spigot.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Recolance/Documents/Dependencies/PlayerLog.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Recolance/Documents/Dependencies/GlobalUtil.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Recolance/Documents/Dependencies/TitleManager.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Recolance/Documents/Dependencies/Coins.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Recolance/Documents/Dependencies/BreachedMcMisc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Recolance/Documents/Dependencies/NPCAPI.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Recolance/Documents/Dependencies/Stats.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Recolance/Documents/Dependencies/Citizens.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

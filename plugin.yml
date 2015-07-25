@@ -1,0 +1,15 @@
+name: Factions
+version: 1.0
+main: me.recolance.factions.Factions
+
+commands:
+  factions:
+    aliases: [f, fac, faction]
+  fadmin:
+    
+permissions:
+  factions.admin:
+    default: op
+    
+
+depend: [PlayerLog, GlobalUtil, TitleManager, Coins, BetterUtilities, WorldGuard, WorldEdit, BreachedMcMisc, NPCAPI, Stats, Citizens]
